@@ -1,7 +1,5 @@
 # Welcome to My Projects Repository
 
-![React Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png)
-
 Welcome to my repository! This is where I store the code for the projects I've worked on, using React and TypeScript.
 
 ## Projects
